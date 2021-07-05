@@ -8,7 +8,8 @@ int main(int argc, char const *argv[])
      */
     double m;
     double cost;
-    scanf("%lf", &m);
+    //scanf("%lf", &m);
+    m =10;
 
     if (m < 0)
     {
